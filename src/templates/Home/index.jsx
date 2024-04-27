@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from 'react';
 
 import { loadPosts } from '../../Utils/load-posts';
 import { Posts } from '../../components/Posts'
-import { Button } from '../Button';
+import { Button } from '../../components/Button';
 import { TextInput } from '../../components/TextInput'
 
 
